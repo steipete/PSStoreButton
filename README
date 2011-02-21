@@ -1,0 +1,11 @@
+Flexible reimplementation of the iOS AppStore Button.
+
+No images are used - styling is done with a sublcassed UIButton and Layers. You can choose the color, default colors for AppStoreGreen, Blue and Gray are setup.
+
+The Button can be set to align right, so you get this right-fixed expansion effect from the AppStore (customPadding)
+
+Works with iOS3 and up.
+
+MIT License because I love you.
+
+http://petersteinberger.com

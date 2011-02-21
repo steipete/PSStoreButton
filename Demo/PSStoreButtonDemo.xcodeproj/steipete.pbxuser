@@ -1,0 +1,474 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PSStoreButtonDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 656}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 545}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PSStoreButtonDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1335}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1378}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PSStoreButtonDemo */ = {
+		activeExec = 0;
+		executables = (
+			78DA4522130DB18E00D1585D /* PSStoreButtonDemo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PSStoreButtonDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {891, 639}}";
+			sepNavSelRange = "{405, 0}";
+			sepNavVisRange = "{0, 416}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PSStoreButtonDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 1305}}";
+			sepNavSelRange = "{2321, 0}";
+			sepNavVisRange = "{1654, 1619}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 78DA4522130DB18E00D1585D /* PSStoreButtonDemo */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PSStoreButtonDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PSStoreButtonDemo */,
+		);
+		codeSenseManager = 78DA4607130DB19F00D1585D /* Code sense */;
+		executables = (
+			78DA4522130DB18E00D1585D /* PSStoreButtonDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					713,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319980835;
+			PBXWorkspaceStateSaveDate = 319980835;
+		};
+		perUserProjectItems = {
+			782E0530130E977A004E35C3 = 782E0530130E977A004E35C3 /* PBXTextBookmark */;
+			782E12DC13128414004E35C3 = 782E12DC13128414004E35C3 /* PBXTextBookmark */;
+			782E12EB1312841E004E35C3 = 782E12EB1312841E004E35C3 /* PBXTextBookmark */;
+			782E12EF1312846D004E35C3 = 782E12EF1312846D004E35C3 /* PBXTextBookmark */;
+			782E12F01312846D004E35C3 = 782E12F01312846D004E35C3 /* PBXTextBookmark */;
+			782E12F11312846D004E35C3 = 782E12F11312846D004E35C3 /* PBXTextBookmark */;
+			782E12F21312846D004E35C3 = 782E12F21312846D004E35C3 /* PBXTextBookmark */;
+			782E12F31312846D004E35C3 = 782E12F31312846D004E35C3 /* PBXTextBookmark */;
+			782E12F41312846D004E35C3 = 782E12F41312846D004E35C3 /* PBXTextBookmark */;
+			782E12F713128470004E35C3 = 782E12F713128470004E35C3 /* PBXTextBookmark */;
+			782E130313128529004E35C3 /* PBXTextBookmark */ = 782E130313128529004E35C3 /* PBXTextBookmark */;
+			782E1326131286AE004E35C3 /* PBXTextBookmark */ = 782E1326131286AE004E35C3 /* PBXTextBookmark */;
+			782E1327131286AE004E35C3 /* PBXTextBookmark */ = 782E1327131286AE004E35C3 /* PBXTextBookmark */;
+			782E1328131286AE004E35C3 /* PBXTextBookmark */ = 782E1328131286AE004E35C3 /* PBXTextBookmark */;
+			782E1329131286AE004E35C3 /* PBXTextBookmark */ = 782E1329131286AE004E35C3 /* PBXTextBookmark */;
+			782E132A131286AE004E35C3 /* PBXTextBookmark */ = 782E132A131286AE004E35C3 /* PBXTextBookmark */;
+			782E132B131286AE004E35C3 /* PBXTextBookmark */ = 782E132B131286AE004E35C3 /* PBXTextBookmark */;
+			782E132E131286CC004E35C3 /* PBXTextBookmark */ = 782E132E131286CC004E35C3 /* PBXTextBookmark */;
+			782E132F131286CC004E35C3 /* PBXTextBookmark */ = 782E132F131286CC004E35C3 /* PBXTextBookmark */;
+			782E1330131286CC004E35C3 /* PBXTextBookmark */ = 782E1330131286CC004E35C3 /* PBXTextBookmark */;
+			78DA45F3130DB19F00D1585D = 78DA45F3130DB19F00D1585D /* PBXTextBookmark */;
+			78DA45F6130DB19F00D1585D = 78DA45F6130DB19F00D1585D /* PBXTextBookmark */;
+			78DA45F7130DB19F00D1585D = 78DA45F7130DB19F00D1585D /* PBXTextBookmark */;
+			78DA4624130DB62700D1585D = 78DA4624130DB62700D1585D /* PlistBookmark */;
+			78DA4625130DB62700D1585D = 78DA4625130DB62700D1585D /* PBXTextBookmark */;
+			78DA463B130DBB0E00D1585D = 78DA463B130DBB0E00D1585D /* PBXTextBookmark */;
+			78DA4644130DBB8E00D1585D = 78DA4644130DBB8E00D1585D /* PBXTextBookmark */;
+			78DA4645130DBB8E00D1585D = 78DA4645130DBB8E00D1585D /* PBXTextBookmark */;
+			78F938F3130DD5FB008FA485 = 78F938F3130DD5FB008FA485 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 78DA4606130DB19F00D1585D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {609, 656}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 377}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* PSStoreButtonDemo_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 656}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 203}";
+		};
+	};
+	782E0530130E977A004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 57";
+		rLen = 0;
+		rLoc = 2149;
+		rType = 0;
+		vrLen = 982;
+		vrLoc = 1708;
+	};
+	782E12DC13128414004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 57";
+		rLen = 0;
+		rLoc = 2149;
+		rType = 0;
+		vrLen = 936;
+		vrLoc = 1708;
+	};
+	782E12EB1312841E004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 57";
+		rLen = 0;
+		rLoc = 2149;
+		rType = 0;
+		vrLen = 936;
+		vrLoc = 1708;
+	};
+	782E12EF1312846D004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PSStoreButtonDemoViewController.h */;
+		name = "PSStoreButtonDemoViewController.h: 13";
+		rLen = 12;
+		rLoc = 331;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	782E12F01312846D004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PSStoreButtonDemoAppDelegate.m */;
+		name = "PSStoreButtonDemoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1062;
+		vrLoc = 1724;
+	};
+	782E12F11312846D004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PSStoreButtonDemoViewController.m */;
+		name = "PSStoreButtonDemoViewController.m: 11";
+		rLen = 0;
+		rLoc = 267;
+		rType = 0;
+		vrLen = 1279;
+		vrLoc = 0;
+	};
+	782E12F21312846D004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460B130DB33500D1585D /* PSStoreButton.h */;
+		name = "PSStoreButton.h: 14";
+		rLen = 0;
+		rLoc = 637;
+		rType = 0;
+		vrLen = 1678;
+		vrLoc = 0;
+	};
+	782E12F31312846D004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 3";
+		rLen = 0;
+		rLoc = 23;
+		rType = 0;
+		vrLen = 1728;
+		vrLoc = 0;
+	};
+	782E12F41312846D004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 15";
+		rLen = 0;
+		rLoc = 670;
+		rType = 0;
+		vrLen = 1728;
+		vrLoc = 0;
+	};
+	782E12F713128470004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 15";
+		rLen = 0;
+		rLoc = 670;
+		rType = 0;
+		vrLen = 1756;
+		vrLoc = 0;
+	};
+	782E130313128529004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 15";
+		rLen = 0;
+		rLoc = 670;
+		rType = 0;
+		vrLen = 1728;
+		vrLoc = 0;
+	};
+	782E1326131286AE004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PSStoreButtonDemoAppDelegate.m */;
+		name = "PSStoreButtonDemoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1378;
+		vrLoc = 0;
+	};
+	782E1327131286AE004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460B130DB33500D1585D /* PSStoreButton.h */;
+		name = "PSStoreButton.h: 75";
+		rLen = 53;
+		rLoc = 2491;
+		rType = 0;
+		vrLen = 1055;
+		vrLoc = 1516;
+	};
+	782E1328131286AE004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PSStoreButtonDemoViewController.h */;
+		name = "PSStoreButtonDemoViewController.h: 15";
+		rLen = 0;
+		rLoc = 405;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 0;
+	};
+	782E1329131286AE004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PSStoreButtonDemoViewController.m */;
+		name = "PSStoreButtonDemoViewController.m: 70";
+		rLen = 0;
+		rLoc = 2361;
+		rType = 0;
+		vrLen = 1546;
+		vrLoc = 1744;
+	};
+	782E132A131286AE004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 90";
+		rLen = 33;
+		rLoc = 2857;
+		rType = 0;
+		vrLen = 1233;
+		vrLoc = 2444;
+	};
+	782E132B131286AE004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 37";
+		rLen = 0;
+		rLoc = 1619;
+		rType = 0;
+		vrLen = 1463;
+		vrLoc = 888;
+	};
+	782E132E131286CC004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 90";
+		rLen = 33;
+		rLoc = 2857;
+		rType = 0;
+		vrLen = 1285;
+		vrLoc = 9583;
+	};
+	782E132F131286CC004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PSStoreButtonDemoViewController.m */;
+		name = "PSStoreButtonDemoViewController.m: 70";
+		rLen = 0;
+		rLoc = 2361;
+		rType = 0;
+		vrLen = 1546;
+		vrLoc = 1744;
+	};
+	782E1330131286CC004E35C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PSStoreButtonDemoViewController.m */;
+		name = "PSStoreButtonDemoViewController.m: 69";
+		rLen = 0;
+		rLoc = 2321;
+		rType = 0;
+		vrLen = 1619;
+		vrLoc = 1654;
+	};
+	78DA4522130DB18E00D1585D /* PSStoreButtonDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PSStoreButtonDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	78DA45F3130DB19F00D1585D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PSStoreButtonDemoAppDelegate.m */;
+		name = "PSStoreButtonDemoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1713;
+		vrLoc = 0;
+	};
+	78DA45F6130DB19F00D1585D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* PSStoreButtonDemo_Prefix.pch */;
+		name = "PSStoreButtonDemo_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 203;
+		vrLoc = 0;
+	};
+	78DA45F7130DB19F00D1585D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	78DA4606130DB19F00D1585D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	78DA4607130DB19F00D1585D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	78DA460B130DB33500D1585D /* PSStoreButton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1366, 1260}}";
+			sepNavSelRange = "{2552, 16}";
+			sepNavVisRange = "{591, 2122}";
+			sepNavWindowFrame = "{{495, 4}, {1425, 1174}}";
+		};
+	};
+	78DA460C130DB33500D1585D /* PSStoreButton.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1349, 4620}}";
+			sepNavSelRange = "{2857, 33}";
+			sepNavVisRange = "{9583, 1285}";
+		};
+	};
+	78DA4624130DB62700D1585D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PSStoreButtonDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/steipete/Documents/Projekte/PSStoreButton/PSStoreButtonDemo/PSStoreButtonDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	78DA4625130DB62700D1585D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PSStoreButtonDemoAppDelegate.h */;
+		name = "PSStoreButtonDemoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 0;
+	};
+	78DA463B130DBB0E00D1585D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PSStoreButtonDemoViewController.h */;
+		name = "PSStoreButtonDemoViewController.h: 13";
+		rLen = 12;
+		rLoc = 331;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	78DA4644130DBB8E00D1585D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PSStoreButtonDemoViewController.m */;
+		name = "PSStoreButtonDemoViewController.m: 52";
+		rLen = 0;
+		rLoc = 1778;
+		rType = 0;
+		vrLen = 1003;
+		vrLoc = 1126;
+	};
+	78DA4645130DBB8E00D1585D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460B130DB33500D1585D /* PSStoreButton.h */;
+		name = "PSStoreButton.h: 1";
+		rLen = 2713;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 1448;
+	};
+	78F938F3130DD5FB008FA485 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 78DA460C130DB33500D1585D /* PSStoreButton.m */;
+		name = "PSStoreButton.m: 57";
+		rLen = 0;
+		rLoc = 2149;
+		rType = 0;
+		vrLen = 982;
+		vrLoc = 1708;
+	};
+}
