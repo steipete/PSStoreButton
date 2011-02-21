@@ -6,7 +6,7 @@ The Button can be set to align right, so you get this right-fixed expansion effe
 
 Works with iOS3 and up.
 
-![Demo](https://skitch.com/steipetee/rx73g/screenshot "Demo")
+![Demo](https://img.skitch.com/20110221-c4ck9xgtaqcs1xf2m8wuahargc.jpg "Demo")
 
 MIT License because I love you.
 
